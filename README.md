@@ -106,4 +106,17 @@
 <img height="180em" src="./profile/stats.svg"/>
 <img height="180em" src="./profile/top-langs.svg"/>
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/jaeheon0819/jaeheon0819/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/jaeheon0819/jaeheon0819/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution snake"
+      src="https://raw.githubusercontent.com/jaeheon0819/jaeheon0819/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
 </div>
