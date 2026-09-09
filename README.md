@@ -110,6 +110,12 @@
 
 <div align="center">
 
-<img src="https://github.com/jaeheon0819/jaeheon0819/blob/gh-pages/github-contribution-grid-snake-dark.svg" alt="Contribution Snake">
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://github.com/jaeheon0819/jaeheon0819/blob/gh-pages/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://github.com/jaeheon0819/jaeheon0819/blob/gh-pages/github-contribution-grid-snake.svg">
+  <img src="LIGHT_RAW_URL" alt="Contribution Snake">
+</picture>
 
 </div>
