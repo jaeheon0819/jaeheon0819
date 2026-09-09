@@ -1,8 +1,5 @@
-## Hi there 👋
 
-
-
-# Hi, I'm [닉네임] 👋 
+# Hi, I'm [jaeheon] 👋 
  
 Computer Science student interested in software development. 
  
