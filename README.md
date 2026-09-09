@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm [jaeheon]
 
-### 💻 Software Engineering Student · Software Developer
+### 💻 Software Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Building+with+Code+%26+AI;Android+%7C+Web+%7C+Backend;Always+Learning+Something+New" />
 
