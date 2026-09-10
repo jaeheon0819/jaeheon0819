@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm [jaeheon]
+# 👋 Hi, I'm [BASIL_OLIVE]
 
 ### 💻 Software Engineering Student · Software Developer · Vibe Coder
 🎓 Software Engineering
